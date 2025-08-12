@@ -20,4 +20,4 @@ GUI: Tkinter
 Data Visualization: Matplotlib
 
 ## 📷 Home Page
-![Home Page](PUT-YOUR-IMAGE-LINK-HERE)
+![Home Page](https://github.com/AY9790/spendometer/blob/main/Screenshot.png)
