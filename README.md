@@ -18,3 +18,6 @@ Language: Python 🐍
 Database: SQLite
 GUI: Tkinter
 Data Visualization: Matplotlib
+
+## 📷 Home Page
+![Home Page](PUT-YOUR-IMAGE-LINK-HERE)
